@@ -1,4 +1,4 @@
-##Problem:
+Problem:
 For my family's mailbox rentals & related services business, manual mail-sorting is a natural bottleneck. Every morning, several batches of our customer's mail is dropped off by the post office and it is our duty to sort and subsequently place the mail into the mailboxes. On a table, mail is bundled into ~10 categories by mailbox numbers ranging from 80 to 900. This task takes up to 90 minutes and becomes quite tedious. Thus, this is a worthwhile and automatable process to tackle anytime I'm overseeing the business.
 
 Goals:
